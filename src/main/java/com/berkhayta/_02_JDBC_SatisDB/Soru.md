@@ -1,0 +1,1 @@
+tblmusteriler, tbladres bu 2 si için katmanlı mimariye uygun şekilde veritabanı işlemlerini gerçekleştiriniz.
